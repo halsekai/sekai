@@ -1,2 +1,3 @@
 # sekai
-first
+fail ealry. 
+fail often
